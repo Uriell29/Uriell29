@@ -2,6 +2,18 @@
 
 ### Hi there 👋, I'm Uriell
 
+I'm Software Developer living in Italy.
+
+## Technical stacks 🔧⚙️
+
+Some of the technologies I use in my profesional/personal projects:
+
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="solidity" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
+</p>
+
 <!--
 **Uriell29/Uriell29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
