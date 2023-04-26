@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Uriell
 
-I'm Software Developer living in Italy.
+I'm Software Developer from 🇫🇷 France, currently living in 🇮🇹 Italy.
 
 ## Technical stacks 🔧⚙️
 
