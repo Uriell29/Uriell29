@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](https://en.wikipedia.org/wiki/She_(pronoun)) [![location](https://img.shields.io/badge/location-%F0%9F%87%AE%F0%9F%87%B9%20Italy-green)](https://duckduckgo.com/?q=milano+map&t=ffab&ia=web&iaxm=maps)
+
+### Hi there 👋, I'm Uriell
 
 <!--
 **Uriell29/Uriell29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
